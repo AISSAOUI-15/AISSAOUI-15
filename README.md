@@ -9,6 +9,10 @@ I design signal processing and deep learning pipelines for real-world sensing sy
 - **INFRALIGHT** — Distributed Acoustic Sensing (DAS) for infrastructure monitoring: event detection and classification from fiber-optic acoustic signals.
 - **CrossAIguard** — FMCW radar & camera fusion for intelligent intersection monitoring: detection, tracking and multi-sensor fusion.
 
+## 📂 Featured projects
+
+- **[rfbeam-vld3-radar](https://github.com/AISSAOUI-15/rfbeam-vld3-radar)**: real-time 60 GHz FMCW radar processing (RFbeam V-LD3), with range-Doppler maps, MIMO BPM decoding, CFAR detection, angle of arrival (FFT and Capon), and timestamped HDF5 recording. Runs on Windows and Jetson.
+
 ## 🧰 Tech stack
 
 **Languages:** Python · MATLAB · C/C++
