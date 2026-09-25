@@ -30,4 +30,4 @@ I design signal processing and deep learning pipelines for real-world sensing sy
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:your.email@example.com) · [Google Scholar](https://scholar.google.com/YOUR-PROFILE)
+[LinkedIn](https://www.linkedin.com/in/mohamed-aissaoui15/) · [Email](mailto:mohamed.aissaoui155@gmail.com)
