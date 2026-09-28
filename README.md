@@ -12,6 +12,7 @@ I design signal processing and deep learning pipelines for real-world sensing sy
 ## 📂 Featured projects
 
 - **[rfbeam-vld3-radar](https://github.com/AISSAOUI-15/rfbeam-vld3-radar)**: real-time 60 GHz FMCW radar processing (RFbeam V-LD3), with range-Doppler maps, MIMO BPM decoding, CFAR detection, angle of arrival (FFT and Capon), and timestamped HDF5 recording. Runs on Windows and Jetson.
+- **[realsense-depth-capture](https://github.com/AISSAOUI-15/realsense-depth-capture)**: Intel RealSense D455 depth camera with YOLOv8 object detection and metric distance, raw recording, and per-frame timestamps on a shared clock for radar-camera synchronization.
 
 ## 🧰 Tech stack
 
